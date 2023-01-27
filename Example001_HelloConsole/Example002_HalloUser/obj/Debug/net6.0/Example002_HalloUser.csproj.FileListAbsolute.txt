@@ -1,0 +1,15 @@
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\bin\Debug\net6.0\Example002_HalloUser.exe
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\bin\Debug\net6.0\Example002_HalloUser.deps.json
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\bin\Debug\net6.0\Example002_HalloUser.runtimeconfig.json
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\bin\Debug\net6.0\Example002_HalloUser.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\bin\Debug\net6.0\Example002_HalloUser.pdb
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.csproj.AssemblyReference.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.AssemblyInfoInputs.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.AssemblyInfo.cs
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.csproj.CoreCompileInputs.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\refint\Example002_HalloUser.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.pdb
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\Example002_HalloUser.genruntimeconfig.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example001_HelloConsole\Example002_HalloUser\obj\Debug\net6.0\ref\Example002_HalloUser.dll
