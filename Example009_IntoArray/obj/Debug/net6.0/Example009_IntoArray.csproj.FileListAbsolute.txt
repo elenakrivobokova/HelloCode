@@ -1,0 +1,15 @@
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.csproj.AssemblyReference.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.AssemblyInfoInputs.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.AssemblyInfo.cs
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.exe
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.deps.json
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.runtimeconfig.json
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\bin\Debug\net6.0\Example009_IntoArray.pdb
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\refint\Example009_IntoArray.dll
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.pdb
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\Example009_IntoArray.genruntimeconfig.cache
+C:\Users\User\Рабочий стол\Лекции и семинары GB\Examples\Example009_IntoArray\obj\Debug\net6.0\ref\Example009_IntoArray.dll
